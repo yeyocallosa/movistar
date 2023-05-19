@@ -1,0 +1,251 @@
+
+#EXTM3U 
+#EXTINF:-1 tvg-chno="1" tvg-id="LA 1 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7863_41A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="LA 1 HD",LA 1 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870571e83db/6b19c020
+
+#EXTINF:-1 tvg-chno="2" tvg-id="LA 2" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7474_3F0_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="LA 2",LA 2 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057350a39/6b19c020
+
+#EXTINF:-1 tvg-chno="3" tvg-id="ANTENA 3 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="ANTENA 3 HD",ANTENA 3 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705777e30c/6b19c020
+
+#EXTINF:-1 tvg-chno="4" tvg-id="CUATRO HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7535_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CUATRO HD",CUATRO HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870579b0c66/6b19c020
+
+#EXTINF:-1 tvg-chno="5" tvg-id="TELECINCO HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7536_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="TELECINCO HD",TELECINCO HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057623e9a/6b19c020
+
+#EXTINF:-1 tvg-chno="6" tvg-id="LA SEXTA HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7537_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="LA SEXTA HD",LA SEXTA HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870579047b5/6b19c020
+
+#EXTINF:-1 tvg-chno="7" tvg-id="M&#43; #0 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_788C_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ #0 HD",M+ #0 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057098659/6b19c020
+
+#EXTINF:-1 tvg-chno="8" tvg-id="M&#43; #VAMOSHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7508_420_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ #VAMOSHD",M+ #VAMOSHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870576b5a29/6b19c020
+
+#EXTINF:-1 tvg-chno="11" tvg-id="M&#43;ESTRENOSHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7539_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ESTRENOSHD",M+ESTRENOSHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057e5360c/6b19c020
+
+#EXTINF:-1 tvg-chno="12" tvg-id="M&#43; ESTRENOS 2 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ ESTRENOS 2 HD",M+ ESTRENOS 2 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705712a7b4/6b19c020
+
+#EXTINF:-1 tvg-chno="13" tvg-id="M&#43;Superagentes" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_749D_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+Superagentes",M+Superagentes 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870571cefe6/6b19c020
+
+#EXTINF:-1 tvg-chno="15" tvg-id="M&#43; CLÁSICOS HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78BF_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ CLÁSICOS HD",M+ CLÁSICOS HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057c55b2c/6b19c020
+
+#EXTINF:-1 tvg-chno="16" tvg-id="M&#43; ACCIÓN HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7509_420_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ ACCIÓN HD",M+ ACCIÓN HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057c1aaef/6b19c020
+
+#EXTINF:-1 tvg-chno="17" tvg-id="M&#43;COMEDIA HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7857_41A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+COMEDIA HD",M+COMEDIA HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705781ab90/6b19c020
+
+#EXTINF:-1 tvg-chno="18" tvg-id="M&#43; DRAMA HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_750B_420_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ DRAMA HD",M+ DRAMA HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870572fd054/6b19c020
+
+#EXTINF:-1 tvg-chno="19" tvg-id="M&#43;Cine Español" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7736_416_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+Cine Español",M+Cine Español 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057c76986/6b19c020
+
+#EXTINF:-1 tvg-chno="21" tvg-id="M&#43; La Resistencia" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7600_408_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ La Resistencia",M+ La Resistencia 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705702d3b0/6b19c020
+
+#EXTINF:-1 tvg-chno="22" tvg-id="TCM HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7885_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="TCM HD",TCM HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057562927/6b19c020
+
+#EXTINF:-1 tvg-chno="23" tvg-id="HOLLYWOODHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_750C_420_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="HOLLYWOODHD",HOLLYWOODHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057041794/6b19c020
+
+#EXTINF:-1 tvg-chno="25" tvg-id="SUNDANCE TV" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76A5_41E_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="SUNDANCE TV",SUNDANCE TV 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057e9fd19/6b19c020
+
+#EXTINF:-1 tvg-chno="29" tvg-id="PARAMOUNT" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_756B_412_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="PARAMOUNT",PARAMOUNT 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057a34cab/6b19c020
+
+#EXTINF:-1 tvg-chno="31" tvg-id="M&#43; SERIES HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ SERIES HD",M+ SERIES HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057e8d19a/6b19c020
+
+#EXTINF:-1 tvg-chno="32" tvg-id="M&#43; SERIES 2 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ SERIES 2 HD",M+ SERIES 2 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057895431/6b19c020
+
+#EXTINF:-1 tvg-chno="33" tvg-id="FOX HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7504_420_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="FOX HD",FOX HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057b042d4/6b19c020
+
+#EXTINF:-1 tvg-chno="34" tvg-id="AXN HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7856_41A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="AXN HD",AXN HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705747403b/6b19c020
+
+#EXTINF:-1 tvg-chno="35" tvg-id="WARNERTV HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7888_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="WARNERTV HD",WARNERTV HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057e3f569/6b19c020
+
+#EXTINF:-1 tvg-chno="36" tvg-id="COMEDYCENTRALHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78C0_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="COMEDYCENTRALHD",COMEDYCENTRALHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057fc6a19/6b19c020
+
+#EXTINF:-1 tvg-chno="37" tvg-id="CALLE 13 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7824_428_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CALLE 13 HD",CALLE 13 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057e41955/6b19c020
+
+#EXTINF:-1 tvg-chno="38" tvg-id="COSMO HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B8_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="COSMO HD",COSMO HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705743761c/6b19c020
+
+#EXTINF:-1 tvg-chno="39" tvg-id="AMC HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7533_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="AMC HD",AMC HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870571eab21/6b19c020
+
+#EXTINF:-1 tvg-chno="40" tvg-id="AXN MOVIES HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="AXN MOVIES HD",AXN MOVIES HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057a08900/6b19c020
+
+#EXTINF:-1 tvg-chno="41" tvg-id="SYFY HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7825_428_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="SYFY HD",SYFY HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057f763a5/6b19c020
+
+#EXTINF:-1 tvg-chno="44" tvg-id="ENERGY" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_749F_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="ENERGY",ENERGY 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057472993/6b19c020
+
+#EXTINF:-1 tvg-chno="45" tvg-id="FDF" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="FDF",FDF 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057ce6201/6b19c020
+
+#EXTINF:-1 tvg-chno="46" tvg-id="NEOX" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7587_412_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="NEOX",NEOX 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057a4c5ba/6b19c020
+
+#EXTINF:-1 tvg-chno="51" tvg-id="M&#43;ELLAS #V HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B5_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ELLAS #V HD",M+ELLAS #V HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870572442d5/6b19c020
+
+#EXTINF:-1 tvg-chno="52" tvg-id="M&#43;LaLigaTVHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+LaLigaTVHD",M+LaLigaTVHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870570863b3/6b19c020
+
+#EXTINF:-1 tvg-chno="53" tvg-id="DAZN LaLigaHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7884_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DAZN LaLigaHD",DAZN LaLigaHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870578e54de/6b19c020
+
+#EXTINF:-1 tvg-chno="54" tvg-id="LigaSmartBankHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="LigaSmartBankHD",LigaSmartBankHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870575e3358/6b19c020
+
+#EXTINF:-1 tvg-chno="55" tvg-id="M&#43;LaLigaTV2HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7853_41A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+LaLigaTV2HD",M+LaLigaTV2HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705754999c/6b19c020
+
+#EXTINF:-1 tvg-chno="56" tvg-id="M&#43;LCAMPEONES" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+LCAMPEONES",M+LCAMPEONES 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057b1996b/6b19c020
+
+#EXTINF:-1 tvg-chno="57" tvg-id="M&#43;LCAMPEON2" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+LCAMPEON2",M+LCAMPEON2 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705741c8e8/6b19c020
+
+#EXTINF:-1 tvg-chno="58" tvg-id="M&#43;LCAMPEON3" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+LCAMPEON3",M+LCAMPEON3 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057cf52df/6b19c020
+
+#EXTINF:-1 tvg-chno="59" tvg-id="M&#43;DEPORTESHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7828_428_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+DEPORTESHD",M+DEPORTESHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057eec286/6b19c020
+
+#EXTINF:-1 tvg-chno="60" tvg-id="M&#43;DEPORTES2HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7532_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+DEPORTES2HD",M+DEPORTES2HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870572646b3/6b19c020
+
+#EXTINF:-1 tvg-chno="61" tvg-id="M&#43;DEPORTES3" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+DEPORTES3",M+DEPORTES3 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870578873ee/6b19c020
+
+#EXTINF:-1 tvg-chno="62" tvg-id="M&#43; GOLF HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M+ GOLF HD",M+ GOLF HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705745d993/6b19c020
+
+#EXTINF:-1 tvg-chno="63" tvg-id="DAZN F1 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7531_426_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DAZN F1 HD",DAZN F1 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057699d83/6b19c020
+
+#EXTINF:-1 tvg-chno="64" tvg-id="DAZN 1 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7855_41A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DAZN 1 HD",DAZN 1 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057a4246a/6b19c020
+
+#EXTINF:-1 tvg-chno="65" tvg-id="DAZN 2 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_785F_41A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DAZN 2 HD",DAZN 2 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870576f14ec/6b19c020
+
+#EXTINF:-1 tvg-chno="66" tvg-id="EUROSPORT1HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7826_428_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="EUROSPORT1HD",EUROSPORT1HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870578aaf24/6b19c020
+
+#EXTINF:-1 tvg-chno="67" tvg-id="EUROSPORT 2" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_74A7_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="EUROSPORT 2",EUROSPORT 2 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057cceec4/6b19c020
+
+#EXTINF:-1 tvg-chno="68" tvg-id="M. GOLF 2 HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_782D_428_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="M. GOLF 2 HD",M. GOLF 2 HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705739d807/6b19c020
+
+#EXTINF:-1 tvg-chno="69" tvg-id="GOL PLAY" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_74A3_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="GOL PLAY",GOL PLAY 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870576e5ee6/6b19c020
+
+#EXTINF:-1 tvg-chno="70" tvg-id="TELEDEPORTE" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="TELEDEPORTE",TELEDEPORTE 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705766f7e9/6b19c020
+
+#EXTINF:-1 tvg-chno="71" tvg-id="CAZAyPESCA HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_788D_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CAZAyPESCA HD",CAZAyPESCA HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057a29ca0/6b19c020
+
+#EXTINF:-1 tvg-chno="80" tvg-id="NAT GEO HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="NAT GEO HD",NAT GEO HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705744d04f/6b19c020
+
+#EXTINF:-1 tvg-chno="81" tvg-id="NG WILD HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7889_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="NG WILD HD",NG WILD HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057d4b4d8/6b19c020
+
+#EXTINF:-1 tvg-chno="82" tvg-id="HISTORIA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7731_416_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="HISTORIA",HISTORIA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057e654f9/6b19c020
+
+#EXTINF:-1 tvg-chno="83" tvg-id="DISCOVERY" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_772F_416_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DISCOVERY",DISCOVERY 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870570a330b/6b19c020
+
+#EXTINF:-1 tvg-chno="84" tvg-id="CANAL ODISEA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CANAL ODISEA",CANAL ODISEA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057093c76/6b19c020
+
+#EXTINF:-1 tvg-chno="85" tvg-id="AMC BREAK" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_772D_416_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="AMC BREAK",AMC BREAK 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870574b31b2/6b19c020
+
+#EXTINF:-1 tvg-chno="88" tvg-id="AMC CRIME" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7732_416_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="AMC CRIME",AMC CRIME 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057a9160c/6b19c020
+
+#EXTINF:-1 tvg-chno="90" tvg-id="CANAL COCINA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CANAL COCINA",CANAL COCINA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057ca69ef/6b19c020
+
+#EXTINF:-1 tvg-chno="91" tvg-id="CANAL DECASA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7795_424_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CANAL DECASA",CANAL DECASA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870576d3b40/6b19c020
+
+#EXTINF:-1 tvg-chno="93" tvg-id="DIVINITY" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_749A_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DIVINITY",DIVINITY 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705755762b/6b19c020
+
+#EXTINF:-1 tvg-chno="94" tvg-id="NOVA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="NOVA",NOVA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870572b9c81/6b19c020
+
+#EXTINF:-1 tvg-chno="96" tvg-id="BE MAD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_74A8_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="BE MAD",BE MAD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057e27015/6b19c020
+
+#EXTINF:-1 tvg-chno="98" tvg-id="ENFAMILIA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76C4_40E_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="ENFAMILIA",ENFAMILIA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057efbaed/6b19c020
+
+#EXTINF:-1 tvg-chno="110" tvg-id="BabyTV" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_749C_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="BabyTV",BabyTV 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705707fbd4/6b19c020
+
+#EXTINF:-1 tvg-chno="111" tvg-id="DISNEY JR" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DISNEY JR",DISNEY JR 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870577a01fc/6b19c020
+
+#EXTINF:-1 tvg-chno="113" tvg-id="NICK JR" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7697_41E_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="NICK JR",NICK JR 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870574a120b/6b19c020
+
+#EXTINF:-1 tvg-chno="114" tvg-id="NICKELODEONHD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7820_428_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="NICKELODEONHD",NICKELODEONHD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870574ea9a6/6b19c020
+
+#EXTINF:-1 tvg-chno="115" tvg-id="DreamWorks HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_750D_420_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DreamWorks HD",DreamWorks HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057b1b57e/6b19c020
+
+#EXTINF:-1 tvg-chno="116" tvg-id="DISNEY CH HD" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_19_788B_414_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DISNEY CH HD",DISNEY CH HD 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870576b71a2/6b19c020
+
+#EXTINF:-1 tvg-chno="117" tvg-id="BOING" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_749E_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="BOING",BOING 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057aa9040/6b19c020
+
+#EXTINF:-1 tvg-chno="118" tvg-id="CLAN TVE" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CLAN TVE",CLAN TVE 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057cf5d9b/6b19c020
+
+#EXTINF:-1 tvg-chno="120" tvg-id="MTV ESPAÑA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_74A2_41C_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="MTV ESPAÑA",MTV ESPAÑA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705725d2a5/6b19c020
+
+#EXTINF:-1 tvg-chno="151" tvg-id="CANAL SUR A." tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7729_416_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="CANAL SUR A.",CANAL SUR A. 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057562269/6b19c020
+
+#EXTINF:-1 tvg-chno="152" tvg-id="TVGA HD EUROPA" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_18F1_3F4_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="TVGA HD EUROPA",TVGA HD EUROPA 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057498fe1/6b19c020
+
+#EXTINF:-1 tvg-chno="153" tvg-id="EXTREMADURA SAT" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_18F0_3F4_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="EXTREMADURA SAT",EXTREMADURA SAT 
+https://servidor3.kozow.com:3160/services/d87057/channel/d8705750c13f/6b19c020
+
+#EXTINF:-1 tvg-chno="156" tvg-id="ARAGON TV INT" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7473_3F0_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="ARAGON TV INT",ARAGON TV INT 
+https://servidor3.kozow.com:3160/services/d87057/channel/d870579ec8a3/6b19c020
+
+#EXTINF:-1 tvg-chno="196" tvg-id="DAZN 3" tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/raw/main/jungle-picon-Movistar-Transparente/picon/1_0_1_77BE_40A_1_C00000_0_0_0.png" group-title="Movistar+ SUPERCOPA" tvg-name="DAZN 3",DAZN 3 
+https://servidor3.kozow.com:3160/services/d87057/channel/d87057d07d06/6b19c020
+
